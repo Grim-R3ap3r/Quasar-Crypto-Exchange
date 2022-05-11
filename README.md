@@ -1,5 +1,6 @@
 # Krypt - Web 3.0 Blockchain Application
-![Krypt](https://i.ibb.co/DVF4tNW/image.png)
+![crypmto](https://user-images.githubusercontent.com/62543734/167756632-b7c5c644-1660-4f5a-b0a9-542904881f66.png)
+
 
 ## Introduction
 This is a code repository for the corresponding video tutorial.
