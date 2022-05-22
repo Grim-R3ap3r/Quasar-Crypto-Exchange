@@ -1,4 +1,9 @@
-# Quasar - Web 3.0 Blockchain Application
+
+
+
+
+
+# Quasar - Web 3.0 Blockchain Application [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg?style=for-the-badge)](http://shields.io/)
 ![crypmto](https://user-images.githubusercontent.com/62543734/167756632-b7c5c644-1660-4f5a-b0a9-542904881f66.png)
 
 
